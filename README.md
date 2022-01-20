@@ -1,3 +1,5 @@
 # CS236 - Embedded Systems and IoT
-Spring 2021
-Prof. D. Schuurman - Calvin University
+### Calvin University, Spring 2021, Professor D. Schuurman
+Lab assignments
+
+Textbook: [Introduction to Embedded Systems](https://ptolemy.berkeley.edu/books/leeseshia/releases/LeeSeshia_DigitalV2_2.pdf)
